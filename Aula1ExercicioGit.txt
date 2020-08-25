@@ -1,0 +1,12 @@
+1)
+a)git inid: Usado na configuração inicial do repositório.
+b)git clone: Permite clonar um repositório já existente.
+c)git branch: vai mostrar todas as branches do repositório
+d)git chechout: Vai para branch específica
+e)git fetch: Baixa os commits do repositório remoto para o local sem afetar o código local.
+f)git pull: Baixa os commits do repositório remoto para o local e ja incorpora no código local.
+g)git add: Adiciona arquivo ao repositório do git.
+h)git commit: atribui uma mensagem ao commit
+i)git push: envia os commits do repositório local para o repositório remoto
+
+2) Ambos baixam os commits do repositório remoto para o local, porém o git pull já implementa as mudança, enquanto o git fetch não.
